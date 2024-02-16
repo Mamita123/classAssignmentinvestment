@@ -16,3 +16,4 @@ public class InvestmentCalculatorTest extends TestCase {
 
     }
 }
+
